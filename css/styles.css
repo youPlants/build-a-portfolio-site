@@ -13,6 +13,9 @@ hr {
 	border-style: solid none;
 	border-color: #7d97ad
 }
+details {
+	color: #228b22;
+}
 h1, h3 {
 	color: #228b22;
 }
